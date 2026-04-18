@@ -6,7 +6,7 @@
 
 **We design, build, and deploy autonomous AI agents and seamless AI integrations that plug directly into the systems your business already runs on.**
 
-[Website: mavensolutions.tech](https://mavensolutions.tech/) · United States
+[mavensolutions.tech](https://mavensolutions.tech/) · United States
 
 </div>
 
